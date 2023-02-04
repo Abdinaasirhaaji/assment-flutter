@@ -1,0 +1,17 @@
+List language = [
+  "English",
+  "Arabic",
+  "Somali",
+  "chines",
+  "japanes",
+  "spanesh",
+  "farance",
+  "Turkey",
+  "Korean",
+  "Russian",
+  "india",
+  "malaya",
+  "uzpakistan",
+  "Filand",
+  "Sweden",
+];
